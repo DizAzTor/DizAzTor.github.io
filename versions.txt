@@ -1,1 +1,2 @@
 # test
+editor=v0.1.5
