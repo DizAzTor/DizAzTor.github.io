@@ -1,2 +1,2 @@
 # test
-editor=v0.1.5
+wf_editor=0.1.5
