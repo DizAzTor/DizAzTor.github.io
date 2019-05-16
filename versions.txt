@@ -1,2 +1,2 @@
 # test
-wf_editor=0.1.8
+wf_editor=0.1.81
